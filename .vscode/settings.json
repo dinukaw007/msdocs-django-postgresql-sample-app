@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3681e86c-06d7-49d3-8ad7-6dafd0f336ba/resourceGroups/rg-million-vibe/providers/Microsoft.Web/sites/celm-web-app",
+    "appService.deploySubpath": "."
+}
